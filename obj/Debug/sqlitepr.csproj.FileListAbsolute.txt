@@ -1,0 +1,12 @@
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\bin\Debug\sqlitepr.exe.config
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\bin\Debug\sqlitepr.exe
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\bin\Debug\sqlitepr.pdb
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.csprojResolveAssemblyReference.cache
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.Properties.Resources.resources
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.csproj.GenerateResource.Cache
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.exe
+c:\users\nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.pdb
+C:\Users\Nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.ItemsList.resources
+C:\Users\Nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.LoginForm.resources
+C:\Users\Nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.MainForm.resources
+C:\Users\Nijat\documents\visual studio 2012\Projects\sqlitepr\sqlitepr\obj\Debug\sqlitepr.forms.operations.import.resources
